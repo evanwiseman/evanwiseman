@@ -3,5 +3,5 @@
 - I'm currently working on:
   - Game design
   - Fullstack development
-- I primarily write code in Go and Python, but also enjoy C/C++
+- I write code in Python, Go, C/C++, and C#
 - You can reach me at evanwiseman2000@gmail.com
